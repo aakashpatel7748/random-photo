@@ -1,7 +1,6 @@
 const btn = document.querySelector("button")
 
 let arr = [
-
     "  photo1.jpg",
     "  photo2.jpg",
     " photo3.jpg",
